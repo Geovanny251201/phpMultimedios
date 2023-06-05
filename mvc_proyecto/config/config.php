@@ -8,6 +8,8 @@ define('CHARSET', 'utf8mb4');
 
 //url del proyecto web
 
+define('URL', 'http://localhost/MultimediosPHP/phpClases/phpMultimedios/mvc_proyecto/')
+
 
 
 
